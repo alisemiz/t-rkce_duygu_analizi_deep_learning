@@ -1,9 +1,9 @@
-[hepsiburada_duygu_analizi_readme (1).md](https://github.com/user-attachments/files/33570647/hepsiburada_duygu_analizi_readme.1.md)
+
 # Hepsiburada Ürün Yorumları: Türkçe Duygu Analizi 🇹🇷
 
 Bu proje, e-ticaret platformu Hepsiburada'daki müşteri yorumlarından yola çıkarak Türkçe metinler üzerinde **Duygu Analizi (Sentiment Analysis)** yapmayı amaçlamaktadır. Proje kapsamında, doğal dil işleme (NLP) teknikleri ve önceden eğitilmiş **BERTurk** dil modeli kullanılarak yorumlar *Olumsuz*, *Nötr* veya *Olumlu* olmak üzere 3 farklı sınıfa ayrılmaktadır.
 
-*Not: Projenin detaylı metodolojisi, veri analiz grafikleri ve derinlemesine hata analizi için depoda yer alan **`Duygu_Analizi_Proje_Raporu.docx`** dosyasına başvurabilirsiniz.*
+
 
 ## 📌 Problem Tanımı
 
@@ -74,4 +74,4 @@ Sınıf dengesizliği nedeniyle temel metrik olarak **Macro-F1** skoru baz alın
 * Embedding + LSTM mimarisi ile BERT modelinin performans kıyaslamasının yapılması.
 
 ---
-**Hazırlayan:** [Ad Soyad / Öğrenci No]
+**Hazırlayan:** Ali Semiz
